@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Resistance/Resistance.iml" filepath="$PROJECT_DIR$/Resistance/Resistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resistance-android/Resistance-android.iml" filepath="$PROJECT_DIR$/Resistance-android/Resistance-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resistance-desktop/Resistance-desktop.iml" filepath="$PROJECT_DIR$/Resistance-desktop/Resistance-desktop.iml" />
+    </modules>
+  </component>
+</project>
+

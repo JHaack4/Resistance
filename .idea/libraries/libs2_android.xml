@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs2 android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Resistance-android/libs/gdx-backend-android-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resistance-android/libs/gdx-backend-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resistance-android/libs/google-play-services.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

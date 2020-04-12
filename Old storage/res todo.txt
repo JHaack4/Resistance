@@ -1,0 +1,35 @@
+make text scrollers prettier (indent and sligh recolor)?
+
+
+get friends to download it
+
+
+done:
+
+wakelock
+new checkbox on swap order?
+ads - ad their locations
+quit
+merlin fix
+back arrow/menu greens
+clean up all guis/textures
+clean up help strings
+appicon
+store listing
+contest application
+
+0 //0000 pl last good
+1 //0001 pl last merlin
+2 //0010 pl last perceval
+3 //0011 pl last spy
+4 //0100 pl last oberon
+5 //0101 trick merlin
+6 //0110 pl last mordred
+11//1011 ads disabled
+12//1100 wtf at last player
+13//1101 wtf at fails
+15//1111 debug toggle
+
+Play Resistance and Avalon with your phone, and keep your friends from cheating!
+
+This app lets you play Resistance, along with its expansion game, Avalon, on your phone. Resistance is a party game for 5-10 players. It is a social deduction game, similar to Mafia or Werewolf. This app lets you play Resistance without having to use any of the game pieces, and only one person has to have it on their phone. The app keeps track of everything, from names to roles to passes and fails. It also contains an in-depth explanation of the rules. The biggest benefit, however, is that the app removes the need for a night phase where everyone is supposed to close their eyes. This means that nobody can cheat by peeking.
